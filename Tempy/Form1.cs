@@ -16,5 +16,10 @@ namespace Tempy
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            // Test project. It does nothing.
+        }
     }
 }
